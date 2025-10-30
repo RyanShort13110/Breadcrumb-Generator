@@ -1,6 +1,6 @@
 <?php
 // use [iiq_breadcrumbs] shortcode to add breadcrumbs to custom post type templates
-// or change line 43 to use different shortcode, if needed
+// or change line 43 to use different shortcode, if needed for a different project
 
 if ( ! function_exists( 'iiq_get_primary_meta_cat_id' ) ) {
 	function iiq_get_primary_meta_cat_id( $post_id = 0 ){
