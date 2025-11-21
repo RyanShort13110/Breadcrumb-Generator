@@ -1,6 +1,9 @@
 <?php
 // use [iiq_breadcrumbs] shortcode to add breadcrumbs to custom post type templates
-// or change line 43 to use different, non-specific shortcode
+
+// or change line 43 to use different, non company-specific shortcode
+
+// this can be used with Divi's code module or with a custom template file. In fact, it was specifically created to get around CPTUI/Divi limitations
 
 if ( ! function_exists( 'iiq_get_primary_meta_cat_id' ) ) {
 	function iiq_get_primary_meta_cat_id( $post_id = 0 ){
