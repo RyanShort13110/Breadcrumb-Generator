@@ -1,7 +1,7 @@
 <?php
 // use [iiq_breadcrumbs] shortcode to add breadcrumbs to custom post type templates
 
-// or change line 46 to use different
+// or change line 46 to use different a different shortcode
 
 // this can be used with Divi's code module or with a custom template file. In fact, it was specifically created to get around CPTUI/Divi limitations
 
